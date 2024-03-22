@@ -1,0 +1,36 @@
+1]what is network topology ?                                    8] Dora Process :- it is technique used by DHCP to dynamically assing IP address
+ans :- multiple newtworks devices are connected to each other                      to any device over the internet
+   1)BUS Topology 
+   2)Ring Topology                                              9] Firewall :- is a network security system that monitors & controlls incoming & 
+   3)Star Topology                                                             outgoing traffic based on the set of rules (ex- internet) 
+   4)Mesh Topology                                                             there are 2 type 1)host based firewall 2)network based firewall
+   5)Tree Topology
+   6)Hybrid Topology
+
+2] Mac address ?
+ans :- 1] Mac address is also called as physical address
+       2] it is globally unique address 
+       3] it is 48 bit address 
+       4] it is represent in hexa decimal formate
+       5] it is work on the data link layer of OSI Model
+
+3] what is subneting ?
+ans :- 1] it is network inside network 
+       2] subnet make network more efficient 
+       3] we csn use the host bit into network ID 
+       4] by using subneting we can avoid awstage of host bit 
+
+4] what is IP address ?
+ans :- it is internet protocall it is unique address that identifies devices on the internet 
+
+5] what is networking ?
+ans :- it is the exchange of information through network . it is medium for transfer the data 
+
+6] Multiplexing & Dmultiplexing ?
+ans :- 1]it is process of combining multiple signals into one signal that travels on medium 
+       2]demultiplexing is reverse of multiplexing in which multiple signals are divide into individual signals
+ 
+7] Gates in networking ?
+ans :- it is building block of a digital system & an electronic circuit that always have one output 
+       types of logical gate are 1] AND gate 2]OR gate 3]NOT gate 4]NAND gate 5]NOR gate 6]XOR gate 7]XNOR gate 
+
